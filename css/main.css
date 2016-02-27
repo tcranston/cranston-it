@@ -145,16 +145,17 @@ a.linkedin:hover, a.linkedin:focus {
         margin: auto;
     }
 
-    .cit-title {font-size: 96px; }
+    .cit-title {font-size: 78px; }
 
     .cit-it {
         color: #fff;
-        padding: 0px 50px 0 25px;
+        padding: 0px 50px 0 20px;
         background-image: url("/img/cit cloudx.gif");
         background-repeat: no-repeat;
         background-position: left top;
-        background-size: 150px;
+        background-size: 130px;
         display: inline-block;
-        min-width: 150px;
-    }
+        min-width: 130px;
+        line-height: 1.4;
+ 
 }
