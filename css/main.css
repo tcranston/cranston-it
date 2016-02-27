@@ -145,7 +145,7 @@ a.linkedin:hover, a.linkedin:focus {
         margin: auto;
     }
 
-    .cit-title {font-size: 78px; }
+    .cit-title {font-size: 66px; }
 
     .cit-it {
         color: #fff;
@@ -153,9 +153,9 @@ a.linkedin:hover, a.linkedin:focus {
         background-image: url("/img/cit cloudx.gif");
         background-repeat: no-repeat;
         background-position: left top;
-        background-size: 130px;
+        background-size: 120px;
         display: inline-block;
         min-width: 130px;
-        line-height: 1.4;
+        line-height: 1.54;
  
 }
