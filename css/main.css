@@ -135,8 +135,9 @@ a.linkedin:hover, a.linkedin:focus {
     }
 
     .hp-content {
-        height: 420px;
+        height: 470px;
         width: 370px;
+        padding-top: 50px;
         position: absolute;
         top:0;
         bottom: 0;
