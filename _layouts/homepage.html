@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="icon" type="image/png"  href="{{ "/images/small ITx.png" | prepend: site.baseurl }}">
+        <link rel="icon" type="image/png"  href="{{ site.favicon | prepend: site.baseurl }}">
 
         <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
@@ -62,5 +62,6 @@
                     $(".fadeIn-first").delay(0).animate({opacity: 1}, 4000);
                     $(".fadeIn-second").delay(2000).animate({opacity: 1}, 3000);
             </script>
+            {% include analytics.html %}
     </body>
 </html>

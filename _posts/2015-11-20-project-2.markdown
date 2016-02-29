@@ -1,0 +1,14 @@
+---
+layout: portfolio
+modal-id: 4
+modal-title: ecb4
+date: 2014-07-15
+img: ecb_1066x666.jpg
+alt: Emmanuel Church Bicester Website Screenshot
+project-date: November 2015
+client: Emmanuel Church Bicester
+category: Website Redesign
+website: http://emmanuelbicester.org.uk/
+description: Moving the website onto a new content management system, and redesigning the look and feel of the website. that compoments include , ability to upload audio files and play or download, google calendar interagration  . All which can be done church administrators. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nisi non odio facilisis consequat non id elit. Integer ut lacus vel magna pretium fringilla et nec justo. Praesent eros justo, egestas et sagittis a, ultrices id eros. Sed tristique id sem in accumsan. This was a joint venture with <a href="http://stephenjolly.com/" title="Stephen Jolly's Website" target="_blank">StephenJolly.com</a>
+
+---

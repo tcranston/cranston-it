@@ -5,11 +5,14 @@ title_p2: IT
 sub_title: Website Design
 slogan: Creative Simplicity
 
+favicon: /img/small ITx.png
+nav-icon: 
+
 email: info@cranston-it.co.uk
 url: http://www.cranston-it.co.uk
 
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "Web Developer - Graphic Artist - User Experience Designer"
+description: "Cranston IT are Website Designers, making great responsive websites for individuals and small businesses."
+keywords: "Web Developer, Creative, Small Businesses, Websites, Responsive, Mobile DevicesGraphic Artist - User Experience Designer"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
