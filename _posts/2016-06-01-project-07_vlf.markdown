@@ -5,7 +5,7 @@ modal-title: vfl
 date: 2016-06-01
 img: vetlifu_1066x666.jpg
 alt: VetLIFU Website Screenshot
-project-date: Janurary 2006
+project-date: June 2016
 client: VetLIFU Ltd.
 category: Website Design
 website: http://www.vetlifu.com
