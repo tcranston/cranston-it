@@ -5,7 +5,7 @@ modal-title: mbl8
 date: 2016-07-01
 img: monroebrothers_1066x666.jpg
 alt: Monroe Brothers Ltd Website Screenshot
-project-date: Janurary 2016
+project-date: June 2016
 client: Monroe Brothers Ltd.
 category: Website Refresh
 website: http://www.monroebrothers.co.uk

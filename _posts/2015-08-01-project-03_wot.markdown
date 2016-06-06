@@ -6,9 +6,9 @@ date: 2015-08-01
 img: wot_1066x666.jpg
 alt: Websites for OCTRU Trials Screenshot
 project-date: August 2015
-client: Oxford Clinical Trials Research Unit (OCTRU).
+client: Oxford Clinical Trials Research Unit.
 category: Website Design
 website: http://wot.octru.ox.ac.uk
-description: OCTRU is one of the 50 registered UKCRC Clinical Trials Units. OCTRU is located at the University of Oxford. Tim Cranston, (employee of OCTRU and lead programmer of Cranston IT) create a website system that allows websites for trials to be quickly and simply created... 
+description: Oxford Clinical Trials Research Unit (OCTRU) is one of the 50 registered UKCRC Clinical Trials Units. OCTRU is located at the University of Oxford. Tim Cranston, (employee of OCTRU and lead programmer of Cranston IT) create a website system that allows websites for trials to be quickly and simply created... 
 
 ---

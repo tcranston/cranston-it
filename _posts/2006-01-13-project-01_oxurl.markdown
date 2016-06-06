@@ -9,7 +9,6 @@ project-date: Janurary 2006
 client: Department of Urology, Churchill Hospitall Oxford.
 category: Website Refresh
 Website: http://google.com
-description: The Department of Urology requested a 'facelift' and a simple way modify content on their exisiting website for patients and GPs. Cranston IT redesigned the website in keeping with the original theme and installed a bespoke Content Management System, allowing dynamic content modification. 
-(Note in 2010 the website was decommissioned)
+description: The Department of Urology requested a 'facelift' and a simple way modify content on their exisiting website for patients and GPs. Cranston IT redesigned the website in keeping with the original theme and installed a bespoke Content Management System, allowing dynamic content modification. (Note in 2010 the website was decommissioned)
 
 ---
