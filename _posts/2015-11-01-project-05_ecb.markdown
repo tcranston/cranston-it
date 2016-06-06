@@ -1,8 +1,8 @@
 ---
 layout: portfolio
-modal-id: 4
-modal-title: ecb4
-date: 2014-07-15
+modal-id: 05
+modal-title: ecb5
+date: 2015-07-15
 img: ecb_1066x666.jpg
 alt: Emmanuel Church Bicester Website Screenshot
 project-date: November 2015
