@@ -116,8 +116,8 @@ a.linkedin:hover, a.linkedin:focus {
 
 .width140 { width: 140px; }
 
-.thumbnail img {
-    
+.thumbnail {
+    min-height: 265px;
 }
 
 .modal.fade {
@@ -202,6 +202,12 @@ a.linkedin:hover, a.linkedin:focus {
 
 .glyphicon {
     color: #1267AA;
+}
+
+@media (min-width: 769px) and (max-width: 990px){ 
+    .thumbnail {
+    min-height: 220px;
+}
 }
 
 
