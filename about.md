@@ -3,7 +3,15 @@ layout: about
 title: About
 permalink: /about
 ---
-We aim to provide creative and quality web services to individuals and small businesses, enabling them to acheive a web presence. Our services range from domain name advice and configuration to bespoke website design and development.
+We aim to provide creative and quality web services to individuals and small businesses, enabling them to acheive a dynamic web presence. Our services include:
+* General website advice
+* Domain name management
+* Web hosting 
+* Personal email configuration
+* Website migration
+* Bespoke website design and development
+
+Please [contact us](http://www.cranston-it.co.uk/contact) for an initial enquiry if you would like to find out more.
 
 
 **About Tim**
