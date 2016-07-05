@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 We aim to provide creative and quality web services to individuals and small businesses, enabling them to acheive a dynamic web presence. Our services include:
+
 * General website advice
 * Domain name management
 * Web hosting 
