@@ -8,11 +8,11 @@ We aim to provide creative and quality web services to individuals and small bus
 * General website advice
 * Domain name management
 * Web hosting 
-* Personal email configuration
+* Bespoke email & mailbox configuration
 * Website migration
 * Bespoke website design and development
 
-Please [contact us](http://www.cranston-it.co.uk/contact) for an initial enquiry if you would like to find out more.
+[Please contact us for an initial enquiry if you would like to find out more.](http://www.cranston-it.co.uk/contact)
 
 
 **About Tim**
