@@ -9,7 +9,6 @@ project-date: August 2016
 client: Bourton on the Hill Parish Council
 category: Website Design and Creation
 website: http://www.bourtononthehill.co.uk
-description: 
-Bourton on the Hill Parish Council came to us with a very clear and detailed set of requirements for their website. Under their guidance we developed the design creating their own bespoke website.  We were delighted to complete the project promplty. The Parish Council were extremely pleased with the result and and appreciated "the great thought into making it easy to add new content."
+description: Bourton on the Hill Parish Council came to us with a very clear and detailed set of requirements for their website. Under their guidance we developed the design creating their own bespoke website.  We were delighted to complete the project promplty. The Parish Council were extremely pleased with the result and and appreciated "the great thought into making it easy to add new content."
 We are also providing domain management, website and email hosting along with ongoing maintenance.
 ---
