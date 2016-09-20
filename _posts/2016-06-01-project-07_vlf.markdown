@@ -9,6 +9,6 @@ project-date: May 2016
 client: VetLIFU Ltd.
 category: Website Design
 website: http://www.vetlifu.com
-description: ...
-
+description: 
+VetLIFU in a new company offering a new generation of therapeutic ultrasound to animals. VetLIFU wanted a modern responsive websites to reflect this exciting new technology for the vet world, giving us creative freedom to design it. We were excited to develop a beauitful website for VetLIFU, which they love.
 ---
