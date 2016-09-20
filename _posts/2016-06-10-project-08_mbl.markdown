@@ -9,5 +9,5 @@ project-date: June 2016
 client: Monroe Brothers Ltd.
 category: Website Refresh
 website: http://www.monroebrothers.co.uk
-description: [IN DEVELOPMENT] We are in the process of modernising the Monroe Brothers website whilst keeping its clean design. [New Monroe Brothers Website](http://monroebrothers.cranston-it.co.uk])
+description: IN DEVELOPMENT. We are in the process of modernising the Monroe Brothers website whilst keeping its clean design. [New Monroe Brothers Website](http://monroebrothers.cranston-it.co.uk])
 ---
