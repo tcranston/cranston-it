@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /about
 ---
-We aim to provide creative and quality web deveopment and consultancy ervices to individuals and small businesses, enabling them to acheive a dynamic web presence. Our services include:
+We aim to provide creative and quality web deveopment and consultancy services to individuals and small businesses, enabling them to acheive a dynamic and appealing web presence. Our services include:
 
 * General website consultancy and advice
 * Website design 
